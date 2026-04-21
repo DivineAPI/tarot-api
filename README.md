@@ -1,6 +1,6 @@
 # Tarot API - DivineAPI
 
-> The complete **Tarot API** for developers. 23+ REST endpoints covering daily tarot, yes-or-no cards, love and compatibility readings, career guidance, past-life connections, angel and Egyptian readings, dream interpretation and more. Plain JSON over HTTPS, 25 languages, card images included, no SDK required.
+> The complete **Tarot API** for developers. 21+ REST endpoints covering daily tarot, yes-or-no cards, love and compatibility readings, career guidance, past-life connections, angel and Egyptian readings, dream interpretation and more. Plain JSON over HTTPS, 25 languages, card images included, no SDK required.
 
 [![Get API Key](https://img.shields.io/badge/Get%20API%20Key-cb22e6?style=for-the-badge&logoColor=white)](https://divineapi.com/register)
 [![Live Docs](https://img.shields.io/badge/Live%20Docs-4F46E5?style=for-the-badge&logoColor=white)](https://developers.divineapi.com/horoscope-and-tarot-api)
@@ -16,7 +16,7 @@
 
 ## What is the Tarot API?
 
-The **Tarot API** by DivineAPI is a complete suite of 23+ REST endpoints for tarot and divination content. It covers every major tarot product category developers build: one-card daily pulls, yes-or-no questions, past-present-future three-card spreads, deep love readings, compatibility scores, career guidance, angel and Egyptian readings, dream interpretations, and mystical specialties like coffee cup and past-life readings.
+The **Tarot API** by DivineAPI is a complete suite of 21+ REST endpoints for tarot and divination content. It covers every major tarot product category developers build: one-card daily pulls, yes-or-no questions, past-present-future three-card spreads, deep love readings, compatibility scores, career guidance, angel and Egyptian readings, dream interpretations, and mystical specialties like past-life and angel readings.
 
 Every reading returns rich text (multi-paragraph interpretations by professional tarot readers) plus hosted card images ready to embed in a webpage or mobile app. No SDK, no client-side deck library: one API key, one call, a ready-to-render response. Content is available in 25 languages.
 
@@ -29,7 +29,6 @@ Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-
 | **Daily tarot card** on your app or website | Daily Tarot |
 | **"Ask a yes/no question"** widget | Yes or No Tarot |
 | **Three-card spread** (past, present, future) | Past-Present-Future Reading |
-| **Quick playful content** (e.g. inspirational social post) | Fortune Cookie |
 | **Love compatibility quiz** (two names, get score) | Love Compatibility, Made For Each Other Or Not |
 | **Deep relationship insight** feature | In-Depth Love Reading |
 | **Break-up / ex recovery** content | Heartbreak Reading, Ex-Flame Reading |
@@ -37,11 +36,11 @@ Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-
 | **Spiritual / angel reading** flow | Divine Angel Reading, Divine Magic Reading |
 | **Dream journal** companion feature | Dream Come True Reading |
 | **Past life / animal-spirit** quiz | Past Lives Connection, Which Animal Are You |
-| **Mystical mini-games** | Coffee Cup Reading, Egyptian Prediction |
+| **Mystical mini-games** | Egyptian Prediction, Divine Magic Reading |
 
 ## Why choose DivineAPI's Tarot API?
 
-- **23+ REST endpoints** covering every popular tarot and reading format
+- **21+ REST endpoints** covering every popular tarot and reading format
 - **Professional tarot readers** write every interpretation, not an LLM or random shuffle
 - **Card images included** in daily tarot responses (upright + reversed PNG URLs)
 - **Upright and reversed meanings** for every card
@@ -57,13 +56,12 @@ Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-
 
 ### Quick Daily Tarot
 
-The core tarot primitives: a card today, a yes/no answer, a fortune slip, or a three-card spread.
+The core tarot primitives: a card today, a yes/no answer, or a three-card spread.
 
 | Endpoint | Docs |
 |---|---|
 | Daily Tarot | [link](https://developers.divineapi.com/horoscope-and-tarot-api/daily-tarot) |
 | Yes or No Tarot | [link](https://developers.divineapi.com/horoscope-and-tarot-api/yes-or-no-tarot) |
-| Fortune Cookie | [link](https://developers.divineapi.com/horoscope-and-tarot-api/fortune-cookie) |
 | Past-Present-Future Reading | [link](https://developers.divineapi.com/horoscope-and-tarot-api/past-present-future-reading) |
 
 ### Love & Relationships
@@ -94,11 +92,10 @@ Guidance-oriented readings, useful for productivity apps, life coaches, career t
 
 ### Mystical & Spiritual
 
-Specialty readings that stand out in a crowded tarot market: Egyptian, angel, dream, past-life, animal-spirit, coffee cup.
+Specialty readings that stand out in a crowded tarot market: Egyptian, angel, dream, past-life, animal-spirit, magic.
 
 | Endpoint | Docs |
 |---|---|
-| Coffee Cup Reading | [link](https://developers.divineapi.com/horoscope-and-tarot-api/coffee-cup-reading) |
 | Divine Angel Reading | [link](https://developers.divineapi.com/horoscope-and-tarot-api/divine-angel-reading) |
 | Divine Magic Reading | [link](https://developers.divineapi.com/horoscope-and-tarot-api/divine-magic-reading) |
 | Dream Come True Reading | [link](https://developers.divineapi.com/horoscope-and-tarot-api/dream-come-true-reading) |
