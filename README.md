@@ -20,7 +20,7 @@ The **Tarot API** by DivineAPI is a complete suite of 21+ REST endpoints for tar
 
 Every reading returns rich text (multi-paragraph interpretations by professional tarot readers) plus hosted card images ready to embed in a webpage or mobile app. No SDK, no client-side deck library: one API key, one call, a ready-to-render response. Content is available in 25 languages.
 
-Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-api) (200+ astrology, horoscope, tarot and numerology endpoints).
+Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-api) (300+ astrology, horoscope, tarot and numerology endpoints).
 
 ## Common use cases
 
