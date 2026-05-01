@@ -391,7 +391,7 @@ The imagery is based on classical Rider-Waite-Smith style deck traditions, rende
 
 Code samples on this page are free to copy into your own projects, no attribution required. Marketing copy, logos, and the **DivineAPI** name are © 2026 DivineAPI, all rights reserved.
 
-For the terms that govern the API service itself, see [divineapi.com/terms](https://divineapi.com/terms).
+For the terms that govern the API service itself, see [divineapi.com/terms](https://divineapi.com/terms-service).
 
 ## Contact
 
